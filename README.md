@@ -85,7 +85,11 @@ This project was developed as a **group project**, where responsibilities were d
 - Improved memory-based personalization  
 
 ---
+## Note:
 
+"Source code is not included as this was a collaborative group project and code ownership belongs to the team."
+
+---
 ## 👩‍💻 Author
 
 **Shital Singh**  
